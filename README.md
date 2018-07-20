@@ -50,3 +50,47 @@ You used metamask, but metamask is shit for sending tokens. Use [myetherwallet](
 Then add the token.
 
 See the explanation here: [myetherwallet](https://github.com/insaneinthemembrane/ERC20-Adding-Token) 
+
+
+# Steps
+
+
+BieberToken
+
+[enter link description here](https://etherscan.io/token/0x4a3bf69d05de3dad67ca8f2ff4cff4f482b714b4)
+
+
+
+![enter image description here](https://cdn.pbrd.co/images/Hvos34e.png)
+
+
+![enter image description here](https://cdn.pbrd.co/images/HvosoY7.png)
+
+
+![enter image description here](https://cdn.pbrd.co/images/HvosJZM.png)
+
+
+![enter image description here](https://cdn.pbrd.co/images/HvotIVi.png)
+
+
+![enter image description here](https://cdn.pbrd.co/images/Hvou6ap.png)
+
+![enter image description here](https://cdn.pbrd.co/images/HvoutiX.png)
+
+
+![enter image description here](https://cdn.pbrd.co/images/HvouGCV.png)
+
+
+![enter image description here](https://cdn.pbrd.co/images/HvouWyQ.png)
+
+
+![enter image description here](https://cdn.pbrd.co/images/Hvovc82.png)
+
+
+![enter image description here](https://cdn.pbrd.co/images/Hvovc82.png)
+
+
+![enter image description here](https://cdn.pbrd.co/images/HvovDMG.png)
+
+![enter image description here](https://cdn.pbrd.co/images/HvovURd.png)
+
