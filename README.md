@@ -49,4 +49,4 @@ You used metamask, but metamask is shit for sending tokens. Use [myetherwallet](
 
 Then add the token.
 
-See the explanation here: myetherwallet](https://github.com/insaneinthemembrane/ERC20-Adding-Token) 
+See the explanation here: [myetherwallet](https://github.com/insaneinthemembrane/ERC20-Adding-Token) 
