@@ -5,7 +5,7 @@
 # Requirements
 
 - Completed source code
-- Metamask app for Google Chrome (and Google Chrome)
+- [Metamask app for Google Chrome](https://chrome.google.com/webstore/detail/metamask/nkbihfbeogaeaoehlefnkodbefgpgknn) (and Google Chrome)
 - Some ETH in the Metamask wallet
 
 -----
